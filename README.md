@@ -1,25 +1,24 @@
-# Welcome to the AWS Cloud Certified Cloud Practitioner Exam Study Guide! 🚀
+---
+description: Introduction to Study Guide
+---
 
-This study guide is your ultimate companion for the AWS Cloud Certified Cloud Practitioner exam. Created by [Muhammet Gümüş](https://github.com/muhammetgumus), it's packed with all the essential knowledge you need to succeed and is composed using my own study notes.
+# 🖌 AWS Certified Cloud Practitioner Exam Preparation
 
-![Study Guide GIF](https://example.com/study-guide.gif)
+This study guide is your ultimate companion for the AWS Cloud Certified Cloud Practitioner exam. It's packed with the essential knowledge you need to succeed and pass the exam. Created by [Muhammet Gümüş](https://github.com/muhammetgumus). &#x20;
+
+![AWSCCP Badge](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner\_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png)
 
 ## What's Inside?
 
-- **Comprehensive Coverage**: Gain a solid understanding of AWS cloud concepts and fundamentals.
-
-- **Study Materials**: Clear explanations, real-world examples, and practical insights from my study notes.
-
-- **Additional Resources**: Explore curated links to AWS whitepapers, documentation, and blog posts.
+* **Comprehensive Coverage**: Gain a solid understanding of AWS cloud concepts and fundamentals.
+* **Study Materials**: Clear explanations, real-world examples, and practical insights from my study notes.
+* **Additional Resources**: Explore curated links to AWS whitepapers, documentation, and blog posts.
 
 ## How to Use This Guide?
 
 1. Read through the guide to familiarize yourself with the AWS cloud concepts covered.
-
 2. Dive into each chapter and absorb the study materials and my study notes.
-
 3. Explore the additional resources to expand your knowledge and stay up-to-date with AWS advancements.
-
 4. Test your knowledge regularly and focus on areas that need improvement.
 
 ## Contribute and Connect

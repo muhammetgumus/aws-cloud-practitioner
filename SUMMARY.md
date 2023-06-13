@@ -4,7 +4,7 @@
 
 ## INTRODUCTION
 
-* [Design Principles](introduction/design-principles.md)
+* [Cloud Computing](introduction/cloud-computing.md)
 * [Brand Guidelines](introduction/brand-guidelines.md)
 * [How updates work](introduction/how-updates-work.md)
 * [Accessibility](introduction/accessibility.md)
