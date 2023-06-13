@@ -5,7 +5,8 @@
 ## INTRODUCTION
 
 * [Cloud Computing](introduction/cloud-computing.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
+* [Cloud Computing Types](introduction/cloud-computing-1.md)
+* [Cloud Types](introduction/brand-guidelines.md)
 * [How updates work](introduction/how-updates-work.md)
 * [Accessibility](introduction/accessibility.md)
 
