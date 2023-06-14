@@ -5,17 +5,16 @@
 ## INTRODUCTION
 
 * [Cloud Computing](introduction/cloud-computing.md)
-* [Cloud Computing Types](introduction/cloud-computing-1.md)
-* [Cloud Types](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+* [Cloud Computing Types](introduction/cloud-computing-types.md)
+* [Cloud Types](introduction/cloud-types.md)
+* [AWS (Amazon Web Services)](introduction/amazon-web-services.md)
 
-## identity
+## AWS
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [IAM (Identity and Access Management)](aws/iam.md)
+* [EC2 (Elastic Cloud Computing)](aws/ec2.md)
+* [ELB & ASG](aws/elb-asg.md)
+* [Amazon S3](aws/s3.md)
 
 ## Components
 
