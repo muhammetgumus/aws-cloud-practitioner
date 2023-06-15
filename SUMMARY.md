@@ -12,7 +12,7 @@
 ## AWS
 
 * [IAM (Identity and Access Management)](aws/iam.md)
-* [EC2 (Elastic Cloud Computing)](aws/ec2.md)
+* [Amazon EC2 (Elastic Compute Cloud)](aws/ec2.md)
 * [ELB & ASG](aws/elb-asg.md)
 * [Amazon S3](aws/s3.md)
 
