@@ -13,7 +13,8 @@
 
 * [IAM (Identity and Access Management)](aws/iam.md)
 * [Amazon EC2 (Elastic Compute Cloud)](aws/ec2/README.md)
-  * [EC2 Instance Types](aws/ec2/instance-types.md)
+  * [EC2 Instance Types](aws/ec2/instance-types/README.md)
+    * [Instances Purchasing Options](aws/ec2/instance-types/instances-purchasing-options.md)
   * [Security Groups](aws/ec2/security-groups.md)
   * [Key Pair & SSH Connection](aws/ec2/key-pair-and-ssh-connection.md)
 * [ELB & ASG](aws/elb-asg.md)
