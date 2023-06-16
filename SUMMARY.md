@@ -14,6 +14,7 @@
 * [IAM (Identity and Access Management)](aws/iam.md)
 * [Amazon EC2 (Elastic Compute Cloud)](aws/ec2/README.md)
   * [EC2 Instance Types](aws/ec2/instance-types.md)
+  * [Security Groups](aws/ec2/security-groups.md)
 * [ELB & ASG](aws/elb-asg.md)
 * [Amazon S3](aws/s3.md)
 
