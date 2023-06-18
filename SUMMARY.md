@@ -17,6 +17,7 @@
     * [Instances Purchasing Options](aws/ec2/instance-types/instances-purchasing-options.md)
   * [Security Groups](aws/ec2/security-groups.md)
   * [Key Pair & SSH Connection](aws/ec2/key-pair-and-ssh-connection.md)
+  * [EBS (Elastic Block Store)](aws/ec2/ebs-elastic-block-store.md)
 * [ELB & ASG](aws/elb-asg.md)
 * [Amazon S3](aws/s3.md)
 
