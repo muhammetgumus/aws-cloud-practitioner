@@ -18,6 +18,7 @@
   * [Security Groups](aws/ec2/security-groups.md)
   * [Key Pair & SSH Connection](aws/ec2/key-pair-and-ssh-connection.md)
   * [EBS (Elastic Block Store)](aws/ec2/ebs-elastic-block-store.md)
+  * [AMI (Amazon Machine Image)](aws/ec2/ami-amazon-machine-image.md)
 * [ELB & ASG](aws/elb-asg.md)
 * [Amazon S3](aws/s3.md)
 
