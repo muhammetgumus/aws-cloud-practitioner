@@ -5,3 +5,5 @@ Amazon Machine Image (AMI) is the customized version of the instances that are f
 * Public AMI: AWS provided
 * Your own AMI: You make and maintain them.
 * AWS marketplace AMI: Created and maintained by other users.
+
+Users easily can create images by right click on any running EC2 instances and then from the dropdown menu **Image and templates** option can be selected.
