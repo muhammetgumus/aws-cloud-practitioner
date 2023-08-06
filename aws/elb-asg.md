@@ -47,8 +47,9 @@ Application Load Balancers is Layer 7
 * Support redirects (HTTP to HTTPS etc.)
 * Routing tables to different target groups
 * Great fit for microservices and containerized apps
+* Preserve client IP information on the **X-Forwarded-For** header
 
-#### Target Groups
+#### ALB Target Groups
 
 We can think of target groups as the destinations that load balancer routes the traffic&#x20;
 
@@ -59,3 +60,26 @@ We can think of target groups as the destinations that load balancer routes the 
 
 ALB can route multiple target groups
 
+### What is NLB?
+
+NLB is OSI Layer 4 load balancer.
+
+* The target type is IP and EC2 instances
+* Supports TCP, UDP and TLS protocols
+* Support <mark style="color:red;">**Static IP address**</mark>
+* SSL termination -> Load balancer or target
+* Natively support IP preservation of client unlike ALB
+* <mark style="color:red;">**Ultra-low latency**</mark>
+
+
+
+### What is GWLB?
+
+GWLB is OSI Layer 3 load balancer.
+
+* Deploy, scale and manage 3rd party network virtual appliances in AWS
+* Examples: Firewalls, Intrusion Detection and Prevention Systems, Deep Packet Inspection Systems, payload manipulation etc.
+* Operates at Layer 3 (Network Layer) - IP Packets
+* Combines Transparent Network Gateway ( single entry point for all traffic) and Load balancer (distributes traffic to your virtual appliances)
+* Uses the **GENEVE** protocol on port **6081**
+* Target Groups are EC2 Instances and IP addresses (must be private)
