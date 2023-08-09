@@ -20,7 +20,9 @@
   * [EBS (Elastic Block Store)](aws/ec2/ebs-elastic-block-store.md)
   * [AMI (Amazon Machine Image)](aws/ec2/ami-amazon-machine-image.md)
   * [Amazon EFS(Elastic File System)](aws/ec2/amazon-efs-elastic-file-system.md)
-* [ELB & ASG](aws/elb-asg.md)
+* [ELB & ASG](aws/elb-asg/README.md)
+  * [Sticky Sessions(Session Affinity)](aws/elb-asg/sticky-sessions-session-affinity.md)
+  * [Cross-Zone Load Balancing](aws/elb-asg/cross-zone-load-balancing.md)
 * [Amazon S3](aws/s3.md)
 
 ## Components
