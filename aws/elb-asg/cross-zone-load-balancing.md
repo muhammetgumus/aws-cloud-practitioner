@@ -14,5 +14,5 @@ As you see in the image when we activate the cross-zone load balancing all incom
 
 * **Application Load Balancer**: <mark style="color:red;">**(default enabled)**</mark> and <mark style="color:red;">**no charges**</mark>
 * **Network & Gateway Load Balancer**: (**disabled by default**) and **extra fees if it is enabled**
-* **Classic Load Balancer: (disabled by default) **<mark style="color:red;">**no charges if it is enabled**</mark>
+* **Classic Load Balancer: (disabled by default) **<mark style="color:red;">**no charges if it is enabled.**</mark>
 
