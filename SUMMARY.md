@@ -24,6 +24,7 @@
   * [Sticky Sessions(Session Affinity)](aws/elb-asg/sticky-sessions-session-affinity.md)
   * [Cross-Zone Load Balancing](aws/elb-asg/cross-zone-load-balancing.md)
   * [Connection Draining](aws/elb-asg/connection-draining.md)
+  * [Auto Scaling Groups](aws/elb-asg/auto-scaling-groups.md)
 * [Amazon S3](aws/s3.md)
 
 ## Components
