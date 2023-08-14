@@ -28,6 +28,7 @@
 * [RDS + Aurora + ElastiCache](aws/rds-+-aurora-+-elasticache/README.md)
   * [Amazon Relational Database Service (RDS)](aws/rds-+-aurora-+-elasticache/amazon-relational-database-service-rds/README.md)
     * [RDS Read Replicas](aws/rds-+-aurora-+-elasticache/amazon-relational-database-service-rds/rds-read-replicas.md)
+    * [RDS Multi AZ (Disaster Recovery)](aws/rds-+-aurora-+-elasticache/amazon-relational-database-service-rds/rds-multi-az-disaster-recovery.md)
 * [Amazon S3](aws/s3.md)
 
 ## Components
