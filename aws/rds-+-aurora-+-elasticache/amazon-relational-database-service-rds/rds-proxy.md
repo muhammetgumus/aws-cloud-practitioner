@@ -6,4 +6,4 @@
 * Serverless, autoscaling, highly available (Multi-AZ)
 * Supports RDS and Aurora
 * No code changes are required for most apps
-* <mark style="color:red;">**RDS Proxy is never publicly accessible**</mark>
+* <mark style="color:red;">**RDS Proxy is never publicly accessible!**</mark>
