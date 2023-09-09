@@ -31,6 +31,7 @@
     * [RDS Multi AZ (Disaster Recovery)](aws/rds-+-aurora-+-elasticache/amazon-relational-database-service-rds/rds-multi-az-disaster-recovery.md)
     * [RDS Proxy](aws/rds-+-aurora-+-elasticache/amazon-relational-database-service-rds/rds-proxy.md)
   * [Amazon Aurora](aws/rds-+-aurora-+-elasticache/amazon-aurora.md)
+* [AWS Route 53](aws/aws-route-53.md)
 * [Amazon S3](aws/s3.md)
 
 ## Components
