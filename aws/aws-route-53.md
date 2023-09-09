@@ -51,3 +51,9 @@ It is a container for records that define how to route traffic to a domain and i
 
 * **Public Hosted Zones:** Contains records that specify how to route traffic on the internet&#x20;
 * **Private Hosted Zones:** Contain records that specify how you route traffic within one or more VPCs
+
+### Route 53 - Routing Policies
+
+There are more than one routing policies while working with Route 53. They are as follows
+
+* Simple: Typically route traffic to a single resource but it may also return multiple values. In that situation, clients can select one of that values randomly
