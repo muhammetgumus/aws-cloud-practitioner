@@ -37,3 +37,17 @@ Let's check the general features of Route 53
 * It is also a Domain Registrar which means you can register any domain that you would like of course if it is not taken by any other clients.
 * It also gives us the ability to check the health of our resources.&#x20;
 * And finally, we may be curious about why it is named **53**. Because It comes from the traditional DNS port.
+
+### Route 53 - Record Types
+
+* A: maps a hostname to IPv4
+* AAAA: maps a hostname to IPv6
+* CNAME: maps a hostname to another hostname. Be careful target domain name must have an A or AAAA record
+* NS: Name servers for the Hosted Zone
+
+### Route 53 - Hosted Zones
+
+It is a container for records that define how to route traffic to a domain and its subdomains
+
+* **Public Hosted Zones:** Contains records that specify how to route traffic on the internet&#x20;
+* **Private Hosted Zones:** Contain records that specify how you route traffic within one or more VPCs
