@@ -56,4 +56,8 @@ It is a container for records that define how to route traffic to a domain and i
 
 There are more than one routing policies while working with Route 53. They are as follows
 
-* Simple: Typically route traffic to a single resource but it may also return multiple values. In that situation, clients can select one of that values randomly
+* **Simple**: Typically route traffic to a single resource but may also return multiple values. In that situation, clients can select one of those values randomly
+* **Weighted**: In this type of routing policy incoming requests are routed to the different resources according to their weights. For example, let's say we have three resources and we set the weight percents like 70(Resource 1) - 30(Resource 2) - 10(Resource 3). After setting this policy every 70 of 100 requests will be handled by Resource 1, 20 by Resource 2 and 10 by Resource 3.
+* **Latency**: Latency-based routing policy allows clients to be routed to the resources that latencies the lowest one to the clients.
+* **Failover**: This type of routing policy is based on the Primary and Secondary resources. It means firstly requests are routed to the primary resource until they are unhealthy. If the primary resource is unhealthy then the requests are routed to the secondary resources
+* **Geolocation**:
